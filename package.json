@@ -1,0 +1,19 @@
+{
+  "name": "handbook-api",
+  "version": "1.0.0",
+  "description": "Public up-to-date API for fetching degree / course info from the UNSW Handbook",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csesoc/handbook-api.git"
+  },
+  "author": "csesoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csesoc/handbook-api/issues"
+  },
+  "homepage": "https://github.com/csesoc/handbook-api#readme"
+}
